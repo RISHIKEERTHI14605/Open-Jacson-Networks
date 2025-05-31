@@ -17,10 +17,16 @@ Visual components and Python
 
 
 ## Experiment:
+![41](https://github.com/user-attachments/assets/e919bcbe-1899-404a-871e-d43c5d3b6c7d)
+
+![42](https://github.com/user-attachments/assets/59e5c74b-7fdd-42f5-aee7-b8a5fe0589f5)
 
 
-## Program:
-```
+## Program
+```C
+Name:Rishi Keerthi K
+Regno:212222043007
+
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -60,11 +66,8 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
-
-
 ## Output
-![EXP6](https://github.com/user-attachments/assets/c5904239-0339-43e5-a4f6-d2605aa3df00)
+![Screenshot 2025-05-24 135456](https://github.com/user-attachments/assets/e64198e4-e2ba-4c14-be2d-c17fc73731a9)
 
-
-## Result:
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+## Result
+The average number of material in the system and in the conveyor and waiting time are successfully found.
